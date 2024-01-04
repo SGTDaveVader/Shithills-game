@@ -62,6 +62,7 @@ political_decisions = {
 			}
 			add_accepted_culture = irish
 			add_accepted_culture = welsh
+			add_accepted_culture = british
 			prestige = 30
 		}
 	}
